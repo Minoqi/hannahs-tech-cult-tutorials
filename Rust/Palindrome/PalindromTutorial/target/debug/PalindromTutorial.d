@@ -1,0 +1,1 @@
+/Users/minoqi/Documents/GitHub/hannahs\ tech\ cult\ tutorials/Rust/Palindrome/PalindromTutorial/target/debug/PalindromTutorial: /Users/minoqi/Documents/GitHub/hannahs\ tech\ cult\ tutorials/Rust/Palindrome/PalindromTutorial/src/main.rs
